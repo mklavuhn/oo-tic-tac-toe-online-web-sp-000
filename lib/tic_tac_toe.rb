@@ -48,5 +48,5 @@ class TicTacToe
   end
   
   def turn 
-    
+    puts "Player #{current_player
 end
