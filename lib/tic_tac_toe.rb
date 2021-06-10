@@ -71,7 +71,9 @@ class TicTacToe
     a || b
   end
     
+  def full?
     
+  end
     
     
     
