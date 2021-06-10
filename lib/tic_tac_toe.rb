@@ -54,5 +54,6 @@ class TicTacToe
     cp = current_player
     if valid_move?
       move(index, cp)
+      display_board
       
 end
